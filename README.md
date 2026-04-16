@@ -1,5 +1,7 @@
 🚀 **From Text to Intelligence: Build Real-World NLP Systems with Python**
 
+<img width="384" height="688" alt="MuruganVadivel_NLP_realworld_usecase" src="https://github.com/user-attachments/assets/879f1d91-0d4f-4139-a006-1c90f4069bdd" />
+
 If you're serious about **AI, Data Science, or Backend Engineering**, this project is your perfect starting point 👇
 
 ---
